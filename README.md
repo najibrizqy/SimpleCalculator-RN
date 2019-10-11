@@ -28,3 +28,19 @@
 You can download the apk [here](https://drive.google.com/file/d/125-4dwHU8S-8zzC7w_N3eVyv_FFUDbTn/view?usp=sharing)
 
 ## Screenshot
+<p align='center'>
+  <span>
+      <image width="200" src="https://user-images.githubusercontent.com/33283502/66637877-28507600-ec3e-11e9-9dbc-a027ca3b1fcb.png" />   
+      <image width="200" src="https://user-images.githubusercontent.com/33283502/66637909-343c3800-ec3e-11e9-961a-f6415c986689.png" />
+      <image width="200" src="https://user-images.githubusercontent.com/33283502/66637931-3ef6cd00-ec3e-11e9-968a-6d6c275eeb0f.png" />
+  </span>
+</p>
+<p align='center'>
+  <span>
+      <image width="200" src="https://user-images.githubusercontent.com/33283502/66637962-4ae28f00-ec3e-11e9-87a6-9afa37fb39be.png" />   
+      <image width="200" src="https://user-images.githubusercontent.com/33283502/66637995-5cc43200-ec3e-11e9-8bb2-995555b9c304.png" />
+      <image width="200" src="https://user-images.githubusercontent.com/33283502/66638016-651c6d00-ec3e-11e9-8cf2-b012a48c2bcb.png" />
+  </span>
+</p>
+
+
