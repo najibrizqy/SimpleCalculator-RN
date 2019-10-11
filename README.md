@@ -1,4 +1,4 @@
-<h1 align="center">EagleChat</h1>
+<h1 align="center">SimpleCalculator</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33283502/66637056-88deb380-ec3c-11e9-9ee0-b512bfdf8cd3.png" width='200'/>
 </p>
